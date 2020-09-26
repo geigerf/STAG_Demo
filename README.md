@@ -17,7 +17,8 @@ Use the buttons in the Python GUI to *Run* and *Pause* the application.
 
 ## Additional information
 
-The correct drivers for the application need to be added in a directory called /Drivers. The project can also be created with the .ioc file in CubeMX, which will automatically add the neccessary drivers
+The correct drivers for the application need to be added in a directory called /Drivers. The project can also be created with the .ioc file in CubeMX, which will automatically add the neccessary drivers.
+The data is sent via UART at a baudrate of 921600.
 
 
 ## Contact
